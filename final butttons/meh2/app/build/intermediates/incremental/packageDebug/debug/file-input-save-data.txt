@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Sat Mar 07 11:23:23 IST 2020
+1.base=/home/aiktc/Desktop/meh/meh2/app/build/intermediates/assets/debug
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=ASSET
+0.path=classes.dex
+0.set=DEX
+0.base=/home/aiktc/Desktop/meh/meh2/app/build/intermediates/transforms/dexMerger/debug/0
+1.path=crashlytics-build.properties
